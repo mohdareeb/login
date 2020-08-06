@@ -1,0 +1,77 @@
+body{
+
+  background: url(e.jpg) no-repeat center center fixed;
+  /*background-color: rgba(168, 243, 230, 0.849);*/
+  
+ 
+  
+
+
+}
+.container{
+    
+    margin: auto;
+    display: block;
+    margin-top: 124px;
+    margin-left: 520px;
+    margin-right: 555px;
+    
+    
+    
+}
+
+.email{
+    width: 60px;
+    height: 0px;
+    padding: 50px;
+    border: 20px;
+    margin: 2px;
+    
+
+}
+.pass{
+    width: 60px;
+    height: 28px;
+    padding: 50px;
+    border: 20px;
+    margin: 2px;
+    
+}
+.pass input{
+    width:203px;
+    height: 18px;
+    background:none;
+
+}
+.email input{
+    
+    width: 203px;
+    height: 18px;
+    background: none;
+}
+.heading{
+    padding: 46px;
+    border: 20px;
+    margin: 5px;
+    color: black;
+    font: bold;
+    
+}
+.btn button{
+    width: 54px;
+    padding: 2px;
+    border: 5px;
+    margin-left: 50px;
+    font-size: 13px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-weight: bold;
+    background: none;
+    color: white;
+}
+
+.btn button:hover{
+   
+    color: purple;
+}
+
